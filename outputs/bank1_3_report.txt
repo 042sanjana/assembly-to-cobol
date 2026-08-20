@@ -1,0 +1,31 @@
+ASSEMBLY -> COBOL MIGRATION REPORT
+========================================
+Source file: bank1.asm
+Upload ID: 3
+
+Modules translated successfully: 0
+Modules failed: 21
+
+FAILED MODULES
+----------------------------------------
+  - GLOBAL: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - START: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - MAIN_MENU: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - LOGIN_USER: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - VALIDATE_USER: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - INVALID_USER: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - LOGIN_FAILED: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - CHECK_ACCOUNT_BALANCE: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - FETCH_BALANCE: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - PROCESS_TRANSFER: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - CHECK_FUNDS: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - INSUFFICIENT_FUNDS: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - DEBIT_ACCOUNT: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - CREDIT_ACCOUNT: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - SAVE_TRANSACTION: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - TRANSACTION_REPORT: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - LOAD_TRANSACTIONS: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - DISPLAY_REPORT: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - INITIALIZE_SYSTEM: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - DATA: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)
+  - END_PROGRAM: ResponseError: model 'qwen2.5-coder:7b' not found (status code: 404)

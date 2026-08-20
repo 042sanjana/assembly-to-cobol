@@ -1,0 +1,27 @@
+ASSEMBLY -> COBOL MIGRATION REPORT
+========================================
+Source file: bank.asm
+Upload ID: 5
+
+Modules translated successfully: 17
+Modules failed: 0
+
+SUCCESSFUL MODULES
+----------------------------------------
+  - GLOBAL
+  - LOGIN
+  - LOGIN_FAILED
+  - TRANSFER
+  - INSUFFICIENT_FUNDS
+  - TRANSFER_SUCCESS
+  - CALCULATE_INTEREST
+  - GENERATE_REPORT
+  - MAIN_MENU
+  - AUTHENTICATE
+  - CHECK_BALANCE
+  - UPDATE_SENDER
+  - UPDATE_RECEIVER
+  - SAVE_TRANSACTION
+  - GET_TRANSACTIONS
+  - PRINT_REPORT
+  - END_PROGRAM
